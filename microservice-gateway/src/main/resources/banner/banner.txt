@@ -1,17 +1,8 @@
-proyecto semana1
-
-
-
-
+proyecto semana2
 
 inhtegrantes:
 Lulio Arturo Herrera Mestanza
-Joffre Hermosilla Salas
-
-
-
-
-
+Javier Atuncar
 
 MICROSERVICIO GATEWAY
                   
